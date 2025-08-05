@@ -105,7 +105,7 @@ This notebook showcases multiple KZG commitment implementations, performance ben
   For security, we used Python’s `secrets` module instead of the standard `random` module. We also used different τ values and distinct sets of evaluation points for each test case. While this adds variability and affects benchmarking consistency, it reflects realistic and reproducible conditions.
 
 - **Limitations of Batch Opening with Our SRS**  
-  We considered implementing the batch opening optimization from the original KZG paper. However, this requires SRS elements of the form \( g_2^{\tau^d} \), which are not available in our current SRS setup. Supporting this would introduce significant complexity and is therefore deferred.
+  We considered implementing the batch opening optimization from the original KZG paper. However, this requires SRS elements of the form g2^{tau^d}, which are not available in our current SRS setup. Supporting this would introduce significant complexity and is therefore deferred.
 
 ---
 
