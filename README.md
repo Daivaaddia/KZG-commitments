@@ -83,7 +83,6 @@ This notebook showcases multiple KZG commitment implementations, performance ben
     - Commitment time
     - Proof/witness generation
     - Proof verification
-    - Summary and discussion
 
 - **Optimization Benchmarks**
   - **Multi-Point Batch Verification**
