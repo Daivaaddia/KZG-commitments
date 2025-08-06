@@ -53,7 +53,7 @@ You can view `KZG_commitments_main.ipynb` directly on GitHub, as GitHub supports
 
    > Note: The full version (with `Fast_Mode = 0`) uses a **3991-degree polynomial**, which takes ~45 minutes for the baseline setup and ~4 hours for the full notebook.
    > 
-   > Setting `Fast_Mode = 1` reduces the maximum degree to 40 and the number of test inputs to 4, reducing runtime from hours down to minutes.
+   > Setting `Fast_Mode = 1` reduces the maximum degree to 400 and the number of test inputs to 4, along with a few other changes, reducing runtime from hours down to minutes.
 
 ## File Overview
 
