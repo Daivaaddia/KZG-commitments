@@ -34,7 +34,7 @@ You can view `KZG_commitments_main.ipynb` directly on GitHub, as GitHub supports
    - You can simply read the notebook and examine the results.
 
 2. **However, you may run or modify it if you wish.**
-   - Use Google Colab or a Jupyter environment with **Python 3.11** (the version used during development).
+   - Use Google Colab (recommended) or a Jupyter environment (e.g. Jypyter Notebook, VSCode w/ Jypyter and Python extension, or others) with **Python 3.11** (the version used during development).
    - It may also work with other Python versions, but this has not been tested.
 
      > **Note:** The `py_ecc.bls12_381.pairing` module is known to have issues with **Python 3.11 on Windows**, which may cause kernel crashes.
