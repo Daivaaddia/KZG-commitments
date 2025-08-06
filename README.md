@@ -125,7 +125,7 @@ Please write up something here.
   https://medium.com/cumberlandlabs/building-trust-with-kzg-commitment-understanding-implementation-and-python-code-samples-c73075d941e6
 
 - **Zero-Knowledge Proofs: KZG Polynomial Commitment and Verification**
-https://medium.com/@abhiveerhome/zero-knowledge-proofs-kzg-polynomial-commitment-and-verification-5a82d62fdefd
+  https://medium.com/@abhiveerhome/zero-knowledge-proofs-kzg-polynomial-commitment-and-verification-5a82d62fdefd
 
 - **py_ecc** — Ethereum Foundation's elliptic curve library  
   https://github.com/ethereum/py_ecc/
