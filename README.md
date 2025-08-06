@@ -119,13 +119,23 @@ Please write up something here.
 - **KZG Commitment Scheme**  
   *Constant-Size Commitments to Polynomials and Their Applications*  
   *Aniket Kate, Gregory M. Zaverucha, Ian Goldberg*  
-  (https://iacr.org/archive/asiacrypt2010/6477178/6477178.pdf)
+  https://iacr.org/archive/asiacrypt2010/6477178/6477178.pdf
+
+- **Building Trust with KZG Commitment: Understanding, Implementation, and Python Code Samples**
+  https://medium.com/cumberlandlabs/building-trust-with-kzg-commitment-understanding-implementation-and-python-code-samples-c73075d941e6
+
+- **Zero-Knowledge Proofs: KZG Polynomial Commitment and Verification**
+https://medium.com/@abhiveerhome/zero-knowledge-proofs-kzg-polynomial-commitment-and-verification-5a82d62fdefd
 
 - **py_ecc** — Ethereum Foundation's elliptic curve library  
-  [GitHub Repository](https://github.com/ethereum/py_ecc/)
+  https://github.com/ethereum/py_ecc/
 
 - **kzg-python-toy** — A reference implementation by *Kassandra of Troy*  
-  [GitHub Repository](https://github.com/kassandraoftroy/kzg-python-toy/)
+  https://github.com/kassandraoftroy/kzg-python-toy/
 
 - **Public Trusted SRS** — From the Ethereum KZG Ceremony  
-  [ceremony.ethereum.org](https://ceremony.ethereum.org/#/record)
+  https://ceremony.ethereum.org/#/record
+
+- **Google Search**
+
+- **ChatGPT**
