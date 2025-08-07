@@ -110,7 +110,7 @@ This notebook showcases multiple KZG commitment implementations, performance ben
 
 # The KZG vs Merkle Tree Benchmark
 
-Please write up something here.
+The set of code we used for benchmarking the KZG and Merkle Tree.
 
 ---
 
