@@ -135,7 +135,3 @@ Please write up something here.
 
 - **Public Trusted SRS** — From the Ethereum KZG Ceremony  
   https://ceremony.ethereum.org/#/record
-
-- **Google Search**
-
-- **ChatGPT**
