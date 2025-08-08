@@ -95,7 +95,10 @@ This notebook showcases multiple KZG commitment implementations, performance ben
     - Apply all optimizations for best overall performance.
   - **Final Summary**
 
-## Possible Improvements (Left Out in Final Version)
+- **Other Test Cases**
+  - Other than the Implementation Showcases and Optimisation Benchmarks, we have included 14 more test cases, ranging from the most basic functionality checks, edge case tests to the tampered/invalid verification showcases.
+
+## Possible Improvements (Left Out in the Final Version)
 
 - **Pre-generated & Cached SRS**  
   For simplicity and speed, we limited polynomial degrees to ≤4000, aligning with the KZG Trusted Setup constraints, which provides an SRS only up to degree 4095. While the system can handle higher degrees using self-generated SRS, this can significantly degrade performance.
