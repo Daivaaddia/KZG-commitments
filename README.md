@@ -5,6 +5,8 @@ This project explores optimizations of the KZG commitment scheme in Python, with
 In this repository, there are two parts:
   * The KZG commitment implementation and optimisation
     * `KZG_commitments_main.ipynb`
+  * KZG Commitments: Simulating a Rollup Sequencer and a Validator in Ethereum (off-chain)
+    * `KZG_commitments_testcase_Ethereum_data_blob.ipynb`
      
   * The KZG vs Merkle Tree Benchmark
     * `kzg.py`
@@ -108,6 +110,14 @@ This notebook showcases multiple KZG commitment implementations, performance ben
 
 - **Limitations of Batch Opening with Our SRS**  
   We considered implementing the batch opening optimization from the original KZG paper. However, this requires SRS elements of the form g2^{tau^d}, which are not available in our current SRS setup. Supporting this would introduce significant complexity and is therefore deferred.
+
+---
+
+# KZG Commitments: Simulating a Rollup Sequencer and a Validator in Ethereum (off-chain)
+
+A Test case on the use of KZG by Rollup Sequencers and Validators in Ethereum, in Jupyter Notebook format.
+
+It is fine to read it in Github. Yet, for the best viewing experience, please download the file and read it on Google Colab. It will hide the two huge coding cells (transcript.json and blob data) and having a table of content making it a lot easier to read.
 
 ---
 
